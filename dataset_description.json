@@ -35,6 +35,6 @@
     "/Anat folder": "T1w.nii files can be found in foler sub-xxx/anat/",
     "/BBB_data folder": "ATT.nii: arterial transit time map (unit: ms), CBF.nii: cerebral blood flow map (unit: ml/100g/min), kw.nii: water exchange rate map (unit: min-1), age_gender.mat: age in years, gender 0 for female and 1 for male, ICV.mat:  Intracranial Volume (unit: mm#), race.mat: 1 for white/Caucasian, 2 for Latinx, 3 for African American, 4 for Asian",
     "BIDSVersion": "1.6.0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005529.v1.0.0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005529.v1.0.1",
     "License": "CC0"
 }
